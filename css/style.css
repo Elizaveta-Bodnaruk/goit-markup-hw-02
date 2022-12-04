@@ -1,0 +1,19 @@
+
+p {
+    font-size: 16px;
+}
+
+/* Header */
+
+.social-links .link {
+    color: #2E2F42;
+}
+
+.link:hover {
+    color: rgba(46, 47, 66, 1);
+}
+
+.social-links .link:focus {
+    color: #2E2F42;
+}
+
