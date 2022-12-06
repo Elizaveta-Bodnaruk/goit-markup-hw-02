@@ -1,0 +1,232 @@
+ 
+ /* Index.html file */
+
+ /* Logo */
+
+.logo {
+    font-family: Raleway;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1,3;
+    letter-spacing: 0,03em;
+
+    color: #4D5AE5;
+}
+
+.secondary-logo {
+font-family: Raleway;
+font-weight: 800;
+font-size: 18px;
+line-height: 1,3;
+
+color: #2E2F42;
+}
+
+body {
+font-family: Roboto, sans-serif;
+color: rgba(67, 68, 85, 1);
+}
+
+/* Main navigation */
+
+.link {
+    background-color: #FFFFFF;
+}
+
+.link a {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1,5;
+
+    color: #2E2F42;
+}
+
+.secondary-link a {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1,5;
+
+    color:rgba(67, 68, 85, 1);
+    background-color: #FFFFFF;
+}
+    
+/* Hover and focus */
+
+.contacts {
+    color: #2E2F42;
+}
+
+.contacts:hover {
+    color: #4D5AE5;
+}
+
+.contacts:focus {
+    color: #4D5AE5;
+}
+.link .contacts:focus {
+    color: #4D5AE5;
+}
+
+.secondary-link:focus {
+    color: #4D5AE5;
+}
+
+.pointer {
+    color: #4D5AE5;
+}
+
+.pointer:hover {
+    color: #4D5AE5;
+}
+ 
+
+.hero {
+    background-color: #2E2F42;
+}
+
+.hero .pointer:focus {
+    color: #4D5AE5;
+}
+
+.buttom .contacts:focus {
+    color: #4D5AE5;
+}
+
+.hero h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1;
+    align-items: center;
+    letter-spacing: 0,02em;
+
+    color: #FFFFFF;
+}
+
+.hero button {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1,1;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0,04em;
+
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+}
+
+/* Feauters section */
+
+.text h3 {
+font-weight: 700;
+font-size: 20px;
+line-height: 1,2;
+letter-spacing: 0,02em;
+
+color: #2E2F42;
+}
+
+.text p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0,02;
+
+    color: #434455;
+}
+
+.text h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1,1;
+
+    text-align: center;
+    letter-spacing: 0,02em;
+
+    color: #2E2F42;
+}
+
+/* Page footer */
+
+.secondary-text {
+    background-color: #F4F4FD;
+}
+
+.secondary-text h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1,1;
+
+    text-align: center;
+    letter-spacing: 0,02em;
+
+    color: #2E2F42;
+}
+
+.secondary-text h3 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1,2;
+    letter-spacing: 0,02em;
+
+    color: #2E2F42;
+}
+
+.secondary-text p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0,02em;
+
+    color: #434455;
+}
+
+.bottom {
+    background-color: #2E2F42;
+}
+
+.bottom p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0,02em;
+
+    color: #E7E9FC;
+}
+
+.thirdly-logo {
+    font-family: Raleway;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1,1;
+    letter-spacing: 0,03em;
+
+    color: #F4F4FD;
+}
+
+/* Portfolio.html */
+
+
+/* Main navigation */
+
+.context-menu {
+    padding: 8px 16px;
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+    background-color: #F4F4FD; 
+}
+
+.context-menu button { 
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1,5;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0,04em;
+
+    color: #4D5AE5;
+    background-color: #E5E5E5;
+}
+
+.pointer { cursor: pointer; } 
+
+
